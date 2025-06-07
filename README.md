@@ -5,6 +5,7 @@ This project focuses on image classification using the Animals10 dataset. We des
 ## Key Achievements
 
 - **Custom CNN Design**: Designed and trained a compact CNN on the Animals10 dataset, keeping model size under 400,000 parameters.(using multiple tricks like depthwise pointwise structure)
+![DCGAN Results](Architecture.PNG)
 - **Regularization & Optimization**:
   - Controlled overfitting using techniques like dropout and data augmentation.
   - Performed hyperparameter tuning and tested various optimizers.
